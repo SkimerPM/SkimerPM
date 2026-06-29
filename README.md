@@ -1,20 +1,31 @@
+<div align="center">
 
-<h1 align="center">
-  Skimer PM
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563eb&height=180&section=header&text=Skimer%20PM&fontSize=65&fontColor=ffffff"/>
 
-<p align="center">
-  Backend Developer<br>
-  Java • Spring Boot • Linux • Perú 🇵🇪
+<br>
+
+<h2>
+Hello World
+</h2>
+
+<p>
+Backend Developer from Peru 🇵🇪
+<br>
+Building APIs, backend systems and clean solutions.
 </p>
 
-<p align="center">
+<p>
 
 <img src="https://img.shields.io/badge/Open_to_work-2ea44f?style=flat-square"/>
-<img src="https://img.shields.io/badge/Backend-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java%20%7C%20Spring%20Boot-Backend-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Arch_Linux-user-1793D1?style=flat-square&logo=arch-linux&logoColor=white"/>
 
 </p>
+
+</div>
+
+
+<br>
 
 
 <p align="center">
@@ -26,52 +37,33 @@
 
 ---
 
-<h3 align="center">
-System Profile
-</h3>
+## About me
 
+```text
+Backend developer focused on building
+APIs, scalable systems and improving
+software architecture.
 
-<p align="center">
+Currently working with:
 
-```bash
-$ cat profile.java
-````
+Java
+Spring Boot
+PostgreSQL
+React
+Docker
 
-```java
-public class Skimer {
+Environment:
+Arch Linux + Hyprland
 
-    String role = "Backend Developer";
-
-
-    String[] stack = {
-        "Java",
-        "Spring Boot",
-        "PostgreSQL",
-        "React",
-        "Docker"
-    };
-
-
-    String environment =
-        "Arch Linux + Hyprland";
-
-
-    boolean learning = true;
-    boolean coffee = true;
-
-}
 ```
-
-</p>
-
----
-
-<h3 align="center">
-Tech Stack
-</h3>
+<br>
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,postgres,react,vite,docker,git,linux&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=java,spring,postgres&theme=dark"/>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,docker,git,linux,arch&theme=dark"/>
 
 </p>
