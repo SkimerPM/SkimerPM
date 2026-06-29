@@ -1,6 +1,7 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563eb&height=180&section=header&text=Skimer%20PM&fontSize=65&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:dc2626&height=180&section=header&text=Skimer%20PM&fontSize=65&fontColor=ffffff"/>
 
 <br>
 
@@ -17,8 +18,8 @@ Building APIs, backend systems and clean solutions.
 <p>
 
 <img src="https://img.shields.io/badge/Open_to_work-2ea44f?style=flat-square"/>
-<img src="https://img.shields.io/badge/Java%20%7C%20Spring%20Boot-Backend-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/Arch_Linux-user-1793D1?style=flat-square&logo=arch-linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java%20%7C%20Spring%20Boot-Backend-dc2626?style=flat-square"/>
+<img src="https://img.shields.io/badge/Arch_Linux-user-b91c1c?style=flat-square&logo=arch-linux&logoColor=white"/>
 
 </p>
 
@@ -30,7 +31,7 @@ Building APIs, backend systems and clean solutions.
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg?palette=github-dark"/>
 
 </p>
 
@@ -55,7 +56,8 @@ Docker
 Environment:
 Arch Linux + Hyprland
 
-```
+````
+
 <br>
 
 <p align="center">
