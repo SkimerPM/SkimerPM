@@ -16,8 +16,8 @@
   </p>
 
   <p>
-    <a href="https://www.linkedin.com/in/TU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-    <a href="mailto:tu.correo@example.com"><img src="https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=white"/></a>
+    <a href="www.linkedin.com/in/josé-fabricio-sánchez"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+    <a href="mailto:skmu.sanchez.q@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=white"/></a>
     <a href="https://github.com/SkimerPM"><img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white"/></a>
   </p>
 </div>
