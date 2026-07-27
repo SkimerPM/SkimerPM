@@ -31,9 +31,6 @@
 - Working knowledge of PostgreSQL and Docker for backend infrastructure.
 - Daily driver: Arch Linux — minimal, CLI-first workflow.
 - Open to backend roles in Trujillo, Peru or remote.
-
-> Nota: el borrador original decía "Arch Linux + Hyprland" — lo dejé como Arch Linux a secas porque no tengo certeza de si sigues en Hyprland o volviste a GNOME; ajusta ese detalle si hace falta.
-
 ---
 
 ### Tech Stack
@@ -48,9 +45,6 @@
 ---
 
 ### Projects
-
-Usa la sección de **pinned repositories** de GitHub (se configura desde tu perfil, arriba de este README) para mostrar tus mejores repos — es lo primero que mira un reclutador y no requiere tocar este archivo.
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:dc2626,100:111827&height=100&section=footer"/>
 </div>
