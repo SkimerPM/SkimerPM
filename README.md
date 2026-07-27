@@ -36,7 +36,6 @@
 - Backend developer focused on **Java** and **Spring Boot**, building APIs and systems designed to scale and evolve.
 - Applies **Hexagonal Architecture** and **Domain-Driven Design** to keep business logic decoupled from infrastructure.
 - Comfortable with **PostgreSQL** and **Docker** for backend infrastructure and data persistence.
-- Daily driver: **Arch Linux** — minimal, CLI-first workflow, because tools should stay out of the way.
 - Open to backend roles in **Trujillo, Peru** or **remote**.
 
 <br/>
