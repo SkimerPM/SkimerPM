@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:dc2626&height=170&section=header&text=Skimer%20PM&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=34&pause=1000&color=DC2626&center=true&vCenter=true&width=650&lines=Skimer+PM" alt="Name" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=22&pause=1000&color=DC2626&center=true&vCenter=true&width=560&lines=Backend+Developer+%C2%B7+Java+%26+Spring+Boot;Hexagonal+Architecture+%7C+Domain-Driven+Design;Clean+code+today+%3D+fewer+fires+tomorrow." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=20&pause=1000&color=9CA3AF&center=true&vCenter=true&width=560&lines=Backend+Developer+%C2%B7+Java+%26+Spring+Boot;Hexagonal+Architecture+%7C+Domain-Driven+Design;Clean+code+today+%3D+fewer+fires+tomorrow." alt="Typing SVG" />
 
 <br/>
 
@@ -32,7 +32,7 @@
 
 <br/>
 
-### 🧭 About me
+### About me
 
 - Backend developer focused on **Java** and **Spring Boot**, building APIs and systems designed to scale and evolve.
 - Applies **Hexagonal Architecture** and **Domain-Driven Design** to keep business logic decoupled from infrastructure.
@@ -42,7 +42,7 @@
 
 <br/>
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker&theme=dark"/>
@@ -50,13 +50,3 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,flutter,git,idea,linux,archlinux&theme=dark"/>
 </p>
-
-<br/>
-
-### 📌 Projects
-
-<sub>Coming soon.</sub>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:dc2626,100:111827&height=100&section=footer"/>
-</div>
