@@ -13,7 +13,6 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Open_to_work-2ea44f?style=flat-square"/>
   <img src="https://img.shields.io/badge/Java%20%7C%20Spring%20Boot-Backend-dc2626?style=flat-square"/>
   <img src="https://img.shields.io/badge/Arch_Linux-user-b91c1c?style=flat-square&logo=arch-linux&logoColor=white"/>
 </p>
