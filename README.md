@@ -6,7 +6,7 @@
   <p>
     Building APIs and backend systems with <b>Hexagonal Architecture</b> and <b>DDD</b>.
     <br/>
-    Based in Peru 🇵🇪 — open to full-time & remote opportunities.
+    Based in Peru — open to full-time & remote opportunities.
   </p>
 
   <p>
@@ -22,21 +22,17 @@
   </p>
 </div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg?palette=github-dark"/>
-</p>
-
 ---
 
 ### About me
 
-- 🔭 Currently building **[yava](https://github.com/SkimerPM)** — a Spring Boot backend applying Hexagonal Architecture, DDD and PostgreSQL on Docker.
-- 🧭 Focused on writing clean, maintainable backend systems — architecture and correctness over shortcuts.
-- 🎓 Software Design & Development, TECSUP (graduating 2026).
-- 🖥️ Daily driver: **Arch Linux** — minimal, dark, CLI-first workflow.
-- 📫 Open to backend roles in Trujillo, Peru or remote.
+- Backend developer specialized in Java and Spring Boot.
+- Focused on building APIs and backend systems using Hexagonal Architecture and Domain-Driven Design.
+- Working knowledge of PostgreSQL and Docker for backend infrastructure.
+- Daily driver: Arch Linux — minimal, CLI-first workflow.
+- Open to backend roles in Trujillo, Peru or remote.
 
-> **Nota:** el borrador original decía "Arch Linux + Hyprland" — lo dejé como Arch Linux a secas porque no tengo certeza de si sigues en Hyprland o volviste a GNOME; ajusta ese detalle si hace falta.
+> Nota: el borrador original decía "Arch Linux + Hyprland" — lo dejé como Arch Linux a secas porque no tengo certeza de si sigues en Hyprland o volviste a GNOME; ajusta ese detalle si hace falta.
 
 ---
 
@@ -51,26 +47,9 @@
 
 ---
 
-### GitHub Stats
+### Projects
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SkimerPM&show_icons=true&hide_border=true&bg_color=00000000&title_color=dc2626&icon_color=dc2626&text_color=e5e7eb&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkimerPM&layout=compact&hide_border=true&bg_color=00000000&title_color=dc2626&text_color=e5e7eb"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SkimerPM&hide_border=true&background=00000000&ring=dc2626&fire=dc2626&currStreakLabel=dc2626&sideNums=e5e7eb&sideLabels=e5e7eb&dates=6b7280"/>
-</p>
-
----
-
-### Featured Project
-
-| Project | Stack | Highlights |
-|---|---|---|
-| **yava** | Spring Boot · Hexagonal Architecture · DDD · PostgreSQL · Docker | Backend built around clean architecture principles for maintainability and testability. |
-
-> Usa la sección de **pinned repositories** de GitHub (arriba de este README, en tu perfil) para mostrar tus 6 mejores proyectos junto a este — es lo primero que ve un reclutador.
+Usa la sección de **pinned repositories** de GitHub (se configura desde tu perfil, arriba de este README) para mostrar tus mejores repos — es lo primero que mira un reclutador y no requiere tocar este archivo.
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:dc2626,100:111827&height=100&section=footer"/>
